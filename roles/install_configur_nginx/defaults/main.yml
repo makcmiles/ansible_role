@@ -1,0 +1,3 @@
+---
+# defaults file for install_configur_nginx
+nginx_listen_port: 8080
